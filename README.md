@@ -1,2 +1,2 @@
-# aluraBooks
-Projeto feito durante um dos cursos da Alura
+# alura-books
+arquivos e repositórios do site-projeto Alura Books
